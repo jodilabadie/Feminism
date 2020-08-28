@@ -1,0 +1,22 @@
+img{
+  width:35%;
+  height:35%;
+}
+
+p{
+  font-size: 16px;
+  font-family:arial;
+}
+
+li{
+  font-size: 18px
+}
+
+.two{
+     font-size: 30px;
+     background-color: pink;
+}
+
+body{
+    background-color: pink;
+}
